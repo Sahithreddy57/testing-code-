@@ -1,0 +1,2 @@
+Brand,Product Name,Category,Size,Price,Product description,Filename path
+Automation_Testing,QA_OIL_INVALID_FORMAT,Engine Oil,1L,525,Invalid format test,oil 1.jpg
